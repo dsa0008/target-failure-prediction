@@ -11,25 +11,25 @@ Random Forest = 0.8521
 Decision Tree = 0.8315
 Logistic Regression = 0.8292
 
-#Metric 2: Precision
+# Metric 2: Precision
 KNN = 0.6461
 Random Forest = 0.7285
 Decision Tree = 0.6701
 Logistic Regression = 0.6683
 
-#Metric 3: Recall
+# Metric 3: Recall
 Random Forest = 0.5265
 Decision Tree = 0.4671
 KNN = 0.4924
 Logistic Regression = 0.4502
 
-#Metric 4: F1 Score
+# Metric 4: F1 Score
 Random Forest = 0.6112
 Decision Tree = 0.5505
 KNN = 0.5589
 Logistic Regression = 0.5380
 
-#Growth/Next Steps
+# Growth/Next Steps
 While predictive accuracy was relatively high - other modelling approaches could be tested, especially those somewhat similar to Random Forest, for example
 XGBoost, LightGBM to see if even more accuracy could be gained.
 From a data point of view, further variables could be collected, and further feature engineering could be undertaken to ensure that we have as much useful
